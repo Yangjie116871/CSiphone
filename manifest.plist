@@ -1,0 +1,44 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://xact02.baidupcs.com/file/fdfffa551v4d69af764b3222e048b5d3?bkt=en-06f5c65000af0ed668f1f0caa27837d81b1bb5793389b3705a30fa33e959f0b18e1c85ce9399f189&fid=1765578948-250528-283608516207091&time=1590574360&sign=FDTAXUGERLQlBHSKfW-DCb740ccc5511e5e8fedcff06b081203-xTLEkYcvIXUnGd0ycQEmUSSxFNI%3D&to=126&size=13015234&sta_dx=13015234&sta_cs=0&sta_ft=ipa&sta_ct=0&sta_mt=0&fm2=MH%2CXian%2CAnywhere%2C%2Csichuan%2Cct&ctime=1590574351&mtime=1590574351&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=13015234&vuk=1765578948&iv=0&htype=&randtype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-1e55916c9362f422f3958d7f91fff8d4ea2b49a4c2fdf416deaea4776622ad2483408e87af463416&sl=76480590&expires=8h&rt=pr&r=393377560&vbdid=4122524355&fin=dk.ipa&fn=dk.ipa&rtype=1&dp-logid=3426943546001273814&dp-callid=0.1&hps=1&tsl=80&csl=80&fsl=-1&csign=%2Fah7Y4Io7SKLeQhUKKDrjIAA7Xo%3D&so=0&ut=6&uter=4&serv=0&uc=2825937547&ti=206be03c6e94484524ab54ef7efc71797a87a2b2e1ca21c0&hflag=30&adg=c_f22a9db7aa6f0852306ec5d988f4ac59&reqlabel=250528_f_aef0ec00b2df440d7daae6b2eca4e243_-1_99610f64f094889176372a4fd622773f&by=themis</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://xact02.baidupcs.com/file/69ddd9ff1tc3ad5e51abf8f65d7127f8?bkt=en-00f3aa810d089f204b71a189bff83eb06aab2752b248556a2843241f86ae960ea91741aa38f53bad2c5a342f831ae0abfc1ae8a709959bc2ad3dba9082f7fe51&fid=1765578948-250528-74835477163829&time=1590574683&sign=FDTAXUGERLQlBHSKfW-DCb740ccc5511e5e8fedcff06b081203-6S8GRZLfg08kyhFdWYrnVeLOdD8%3D&to=126&size=76938&sta_dx=76938&sta_cs=0&sta_ft=png&sta_ct=0&sta_mt=0&fm2=MH%2CXian%2CAnywhere%2C%2Csichuan%2Cct&ctime=1590574648&mtime=1590574648&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=76938&vuk=1765578948&iv=0&htype=&randtype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-512366dae788249c937c70046399579257e410da38a4fcfe44a2697b2c13a2ab7434b6fb07b6f71d9e91aac1877f85f37e0e2bb80204af88305a5e1275657320&sl=68616270&expires=8h&rt=pr&r=456426879&vbdid=4122524355&fin=2019_07_09_1714305705.png&fn=2019_07_09_1714305705.png&rtype=1&dp-logid=3427030152603904306&dp-callid=0.1&hps=1&tsl=200&csl=200&fsl=-1&csign=GhfsZ5VmH8hs8m%2B4Gz%2FZihAyJqw%3D&so=0&ut=6&uter=4&serv=0&uc=2825937547&ti=025a8ff8f81e18c46dc492571458593e0c88f99e203e037c&hflag=30&adg=c_f22a9db7aa6f0852306ec5d988f4ac59&reqlabel=250528_f_aef0ec00b2df440d7daae6b2eca4e243_-1_99610f64f094889176372a4fd622773f&by=themis</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://xact02.baidupcs.com/file/2fe2b989cidd3059f529734fa12ed72b?bkt=en-0f64e6ca9b24f0bcc4bafc246c04927825482e9c29111642eadadfc9cde6da9752f5c4623cda50ea3d7962fa7ece2d0ee3634df01d1ebfb93433aa1aaf820b30&fid=1765578948-250528-57668427361333&time=1590574678&sign=FDTAXUGERLQlBHSKfW-DCb740ccc5511e5e8fedcff06b081203-hOb53a%2BKf8Knzt6cf8Po1KW64Bk%3D&to=126&size=4527&sta_dx=4527&sta_cs=0&sta_ft=png&sta_ct=0&sta_mt=0&fm2=MH%2CXian%2CAnywhere%2C%2Csichuan%2Cct&ctime=1590574665&mtime=1590574665&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=4527&vuk=1765578948&iv=0&htype=&randtype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-9ad0ec86437ba291fb397ee18297c73de57451212d17297b9a786062f269c4b13cc98ab715656613e6bfd23371a14f38837ba70c8ead0b76305a5e1275657320&sl=68616270&expires=8h&rt=pr&r=171016030&vbdid=4122524355&fin=1.png&fn=1.png&rtype=1&dp-logid=3427028830650931821&dp-callid=0.1&hps=1&tsl=200&csl=200&fsl=-1&csign=GhfsZ5VmH8hs8m%2B4Gz%2FZihAyJqw%3D&so=0&ut=6&uter=4&serv=0&uc=2825937547&ti=0887d9faa0e992646fb1210317b5e80d24b5369825ddd0b0&hflag=30&adg=c_f22a9db7aa6f0852306ec5d988f4ac59&reqlabel=250528_f_aef0ec00b2df440d7daae6b2eca4e243_-1_99610f64f094889176372a4fd622773f&by=themis</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>cn.yhxy.www</string>
+                <key>bundle-version</key>
+                <string>1.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>夹具</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
